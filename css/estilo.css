@@ -1,5 +1,6 @@
 .image-fondo {
   background-image: url("../img/manwalking.jpg");
+  background-size: cover;
 }
 
 .cabecera {
